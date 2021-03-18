@@ -1,0 +1,7 @@
+C:\Users\Elite\source\repos\Methods_5\bin\Debug\Methods_5.exe.config
+C:\Users\Elite\source\repos\Methods_5\bin\Debug\Methods_5.exe
+C:\Users\Elite\source\repos\Methods_5\bin\Debug\Methods_5.pdb
+C:\Users\Elite\source\repos\Methods_5\obj\Debug\Methods_5.csprojAssemblyReference.cache
+C:\Users\Elite\source\repos\Methods_5\obj\Debug\Methods_5.csproj.CoreCompileInputs.cache
+C:\Users\Elite\source\repos\Methods_5\obj\Debug\Methods_5.exe
+C:\Users\Elite\source\repos\Methods_5\obj\Debug\Methods_5.pdb

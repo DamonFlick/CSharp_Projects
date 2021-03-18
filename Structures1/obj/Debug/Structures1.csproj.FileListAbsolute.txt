@@ -1,0 +1,7 @@
+C:\Users\Elite\source\repos\Structures1\bin\Debug\Structures1.exe.config
+C:\Users\Elite\source\repos\Structures1\bin\Debug\Structures1.exe
+C:\Users\Elite\source\repos\Structures1\bin\Debug\Structures1.pdb
+C:\Users\Elite\source\repos\Structures1\obj\Debug\Structures1.csprojAssemblyReference.cache
+C:\Users\Elite\source\repos\Structures1\obj\Debug\Structures1.csproj.CoreCompileInputs.cache
+C:\Users\Elite\source\repos\Structures1\obj\Debug\Structures1.exe
+C:\Users\Elite\source\repos\Structures1\obj\Debug\Structures1.pdb

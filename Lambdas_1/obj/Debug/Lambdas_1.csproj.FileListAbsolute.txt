@@ -1,0 +1,7 @@
+C:\Users\Elite\source\repos\Lambdas_1\bin\Debug\Lambdas_1.exe.config
+C:\Users\Elite\source\repos\Lambdas_1\bin\Debug\Lambdas_1.exe
+C:\Users\Elite\source\repos\Lambdas_1\bin\Debug\Lambdas_1.pdb
+C:\Users\Elite\source\repos\Lambdas_1\obj\Debug\Lambdas_1.csprojAssemblyReference.cache
+C:\Users\Elite\source\repos\Lambdas_1\obj\Debug\Lambdas_1.csproj.CoreCompileInputs.cache
+C:\Users\Elite\source\repos\Lambdas_1\obj\Debug\Lambdas_1.exe
+C:\Users\Elite\source\repos\Lambdas_1\obj\Debug\Lambdas_1.pdb

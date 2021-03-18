@@ -1,0 +1,7 @@
+C:\Users\Elite\source\repos\Package_Express_Project\bin\Debug\Package_Express_Project.exe.config
+C:\Users\Elite\source\repos\Package_Express_Project\bin\Debug\Package_Express_Project.exe
+C:\Users\Elite\source\repos\Package_Express_Project\bin\Debug\Package_Express_Project.pdb
+C:\Users\Elite\source\repos\Package_Express_Project\obj\Debug\Package_Express_Project.csprojAssemblyReference.cache
+C:\Users\Elite\source\repos\Package_Express_Project\obj\Debug\Package_Express_Project.csproj.CoreCompileInputs.cache
+C:\Users\Elite\source\repos\Package_Express_Project\obj\Debug\Package_Express_Project.exe
+C:\Users\Elite\source\repos\Package_Express_Project\obj\Debug\Package_Express_Project.pdb

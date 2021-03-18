@@ -1,0 +1,7 @@
+C:\Users\Elite\source\repos\Chain_Constructors\bin\Debug\Chain_Constructors.exe.config
+C:\Users\Elite\source\repos\Chain_Constructors\bin\Debug\Chain_Constructors.exe
+C:\Users\Elite\source\repos\Chain_Constructors\bin\Debug\Chain_Constructors.pdb
+C:\Users\Elite\source\repos\Chain_Constructors\obj\Debug\Chain_Constructors.csprojAssemblyReference.cache
+C:\Users\Elite\source\repos\Chain_Constructors\obj\Debug\Chain_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Elite\source\repos\Chain_Constructors\obj\Debug\Chain_Constructors.exe
+C:\Users\Elite\source\repos\Chain_Constructors\obj\Debug\Chain_Constructors.pdb

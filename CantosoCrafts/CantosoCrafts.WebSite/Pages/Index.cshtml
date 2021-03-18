@@ -1,0 +1,42 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<style>
+    .animation_container {
+        width: 400px;
+        height: 400px;
+        position: relative;
+        background: teal;
+    }
+
+    #animation {
+        width: 50px;
+        height: 50px;
+        position: absolute;
+        background: blue;
+    }
+</style>
+<div class="text-center">
+    <h1 class="display-4">Contoso Craft</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Raccoon_climbing_in_tree_-_Cropped_and_color_corrected.jpg/582px-Raccoon_climbing_in_tree_-_Cropped_and_color_corrected.jpg" />
+</div>
+
+
+<div class="text-center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/4qeGBSo4nYI" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
+            picture-in-picture" allowfullscreen></iframe>
+    <h1>This is some <span style="color: red;">Red</span> text.</h1>
+</div>
+
+<p>
+    <button onclick="myMove()">Click Me!</button>
+</p>
+
+<div class="animation_container">
+    <div id="animation"></div>
+</div>
+

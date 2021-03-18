@@ -1,0 +1,7 @@
+C:\Users\Elite\source\repos\String_Manipulaiton\bin\Debug\String_Manipulaiton.exe.config
+C:\Users\Elite\source\repos\String_Manipulaiton\bin\Debug\String_Manipulaiton.exe
+C:\Users\Elite\source\repos\String_Manipulaiton\bin\Debug\String_Manipulaiton.pdb
+C:\Users\Elite\source\repos\String_Manipulaiton\obj\Debug\String_Manipulaiton.csprojAssemblyReference.cache
+C:\Users\Elite\source\repos\String_Manipulaiton\obj\Debug\String_Manipulaiton.csproj.CoreCompileInputs.cache
+C:\Users\Elite\source\repos\String_Manipulaiton\obj\Debug\String_Manipulaiton.exe
+C:\Users\Elite\source\repos\String_Manipulaiton\obj\Debug\String_Manipulaiton.pdb
